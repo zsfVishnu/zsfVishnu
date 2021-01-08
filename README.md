@@ -4,7 +4,7 @@
 
 ### I have experience in Deep Learning, Computer Vision, 3D reconstruction from low quality monocular images, Perception for autonomous drones etc.
 
-### Final year project involved extensive work in automatic lesion segmentation and cancer detection from biomedical images using Deep Learning
+### Extensively worked in automatic lesion segmentation and cancer detection from biomedical images using Deep Learning
 
 ### Currently working in Android Development
 
