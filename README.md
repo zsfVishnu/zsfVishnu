@@ -1,12 +1,6 @@
-### Hi there👋
+### Still trying to figure out what to do 🤔😄
 
-### I'm a Dual Degree (B.tech + M.Tech) grad student from IIT Madras
 
-### I have experience in Deep Learning, Computer Vision, 3D reconstruction from low quality monocular images, Perception for autonomous drones etc.
-
-### Extensively worked in automatic lesion segmentation and cancer detection from biomedical images using Deep Learning
-
-### Currently working in Android Development
 
 <!--
 **zsfVishnu/zsfVishnu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
